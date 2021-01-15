@@ -1,14 +1,12 @@
-"","Population2018","Country"
-"1",607950,"Luxembourg"
-"2",8882800,"Israel"
-"3",11427054,"Belgium"
-"5",18729160,"Chile"
-"6",44494502,"Argentina"
-"7",46797754,"Spain"
-"8",49648685,"Colombia"
-"9",51606633,"Korea"
-"10",66460344,"United Kingdom"
-"11",126529100,"Japan"
-"12",326687501,"United States"
-"13",1352617328,"India"
-"14",1392730000,"China (People's Republic of)"
+"","Country","Population2018"
+"17","Belgium",11427054
+"35","Chile",18729160
+"36","China (People's Republic of)",1392730000
+"67","Greece",10732882
+"77","India",1352617328
+"81","Ireland",4867316
+"82","Israel",8882800
+"155","Spain",46797754
+"169","Turkey",82319724
+"170","United States",326687501
+"174","United Kingdom",66460344
